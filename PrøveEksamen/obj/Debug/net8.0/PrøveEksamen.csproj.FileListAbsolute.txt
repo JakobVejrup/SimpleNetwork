@@ -1,0 +1,14 @@
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\bin\Debug\net8.0\PrøveEksamen.exe
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\bin\Debug\net8.0\PrøveEksamen.deps.json
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\bin\Debug\net8.0\PrøveEksamen.runtimeconfig.json
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\bin\Debug\net8.0\PrøveEksamen.dll
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\bin\Debug\net8.0\PrøveEksamen.pdb
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\obj\Debug\net8.0\PrøveEksamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\obj\Debug\net8.0\PrøveEksamen.AssemblyInfoInputs.cache
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\obj\Debug\net8.0\PrøveEksamen.AssemblyInfo.cs
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\obj\Debug\net8.0\PrøveEksamen.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\obj\Debug\net8.0\PrøveEksamen.dll
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\obj\Debug\net8.0\refint\PrøveEksamen.dll
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\obj\Debug\net8.0\PrøveEksamen.pdb
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\obj\Debug\net8.0\PrøveEksamen.genruntimeconfig.cache
+C:\Users\jakob\source\repos\PrøveEksamen Netværksprogrammering\PrøveEksamen\obj\Debug\net8.0\ref\PrøveEksamen.dll
